@@ -14,3 +14,12 @@ Bank_Churn_prediction/
 ├── venv/
 ├── .gitignore
 ├── README.md
+
+app.py: Streamlit app for customer churn prediction.
+gaussian_nb_model.pkl: Trained Gaussian Naive Bayes model.
+scaler.pkl: Scaler used for data normalization.
+Bank_Customer_Churn_Prediction.ipynb: Jupyter notebook for data preprocessing and model training.
+venv/: Virtual environment directory.
+.gitignore: Git ignore file to exclude unnecessary files from the repository.
+README.md: Project documentation.
+
