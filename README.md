@@ -2,7 +2,7 @@
 
 This project aims to predict customer churn for a bank using a Gaussian Naive Bayes model. The project includes data preprocessing, model training, and a Streamlit app for making predictions based on user input.
 
-### Project Structure
+## Project Structure
 
 app.py: Streamlit app for customer churn prediction.  
 
@@ -18,7 +18,7 @@ venv/: Virtual environment directory.
 
 README.md: Project documentation.
 
-### Setup Instructions
+## Setup Instructions
 
 Clone the Repository  
 
@@ -28,14 +28,14 @@ Install Dependencies
 
 Run the Streamlit App
 
-### Usage
+## Usage
 Run the Streamlit app using this command: streamlit run app.py  
 
 Enter the customer details in the sidebar form.  
 
 View the prediction result to see if the customer is likely to churn.
 
-### Data Preprocessing and Model Training
+## Data Preprocessing and Model Training
 The Bank_Customer_Churn_Prediction.ipynb notebook contains the following steps:
 
 Data loading and preprocessing.  
